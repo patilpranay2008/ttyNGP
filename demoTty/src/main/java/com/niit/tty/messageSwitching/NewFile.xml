@@ -1,0 +1,11 @@
+<teletypeSplit>true</teletypeSplit>
+<messageType>TMSG</messageType>
+<teletypeText>TEST HDQBB9W</teletypeText>
+<teletypeOrigin>HDQBB9W</teletypeOrigin>
+<teletypeDestination>HDQBB9W</teletypeDestination>
+<teletypePartition>9W</teletypePartition>
+<zuluTimestamp>Jul 15, 2019 2:39:53 PM</zuluTimestamp>
+<teletypeType>MSW</teletypeType>
+<version>0.1</version>
+<teletypeSendto>false</teletypeSendto>
+<teletypePriority>QD</teletypePriority>
